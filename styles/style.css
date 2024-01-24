@@ -60,15 +60,22 @@ ol {
 
 .result{
 	align-self: flex-end;
+<<<<<<< HEAD
 	display: flex;
 	flex-direction: column;
 	gap: 16px;
+=======
+>>>>>>> origin/main
 }
 
 .result__video-container {
   inline-size: 711px;
+<<<<<<< HEAD
 	height: 386px;
+=======
+>>>>>>> origin/main
   position: relative;
+	margin: 0 0 16px;
 }
 
 .result__video {
@@ -217,8 +224,12 @@ ol {
   position: relative;
   overflow-y: scroll;
   block-size: 298px;
+<<<<<<< HEAD
 	min-width:418px;
 	/* scrollbar-width: none; */
+=======
+  min-width:418px;
+>>>>>>> origin/main
 }
 /* .content__list::-webkit-scrollbar {
   display: none;
