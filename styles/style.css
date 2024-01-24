@@ -215,12 +215,7 @@ ol {
   overflow-y: scroll;
   block-size: 298px;
   min-width:418px;
-  scrollbar-width: none; 
 }
-
-.content__list::-webkit-scrollbar {
-  display: none;
-} 
 
 .content__list-item{
   margin-bottom: 30px;
