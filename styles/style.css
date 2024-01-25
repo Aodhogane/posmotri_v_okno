@@ -191,6 +191,15 @@ ol {
   outline: 1px solid #FFF;
   outline-offset: 1px;
 }
+
+.more-button:focus-visible
+{
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
+  margin-bottom: 2px;
+  margin-left: 2px;
+}
+
 .search-form__submit-button {
   align-self: flex-end;
 }
