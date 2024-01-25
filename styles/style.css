@@ -59,18 +59,16 @@ ol {
 }
 
 .result{
-	align-self: flex-end;
-
-	display: flex;
-	flex-direction: column;
-	gap: 16px;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 .result__video-container {
   inline-size: 711px;
 	height: 386px;
   position: relative;
-	margin: 0 0 16px;
 }
 
 .result__video {
@@ -176,6 +174,7 @@ ol {
   inline-size: 100%;
   margin-top: 20px;
 }
+
 .button:active {
   background-color: #545050;
 }
@@ -219,16 +218,11 @@ ol {
   position: relative;
   overflow-y: scroll;
   block-size: 298px;
-	min-width:418px;
-  min-width:418px;
-}
-
-.content__list-item{
-  margin-bottom: 30px;
+	min-width: 418px;
 }
 
 .content__list-item:not(:last-child) {
-  margin: 0 0 34px;
+  margin: 0 0 30px;
 }
 
 .content__card-link {
