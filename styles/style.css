@@ -67,7 +67,7 @@ ol {
 
 .result__video-container {
   inline-size: 711px;
-	height: 386px;
+  height: 386px;
   position: relative;
 }
 
@@ -226,7 +226,7 @@ ol {
   position: relative;
   overflow-y: scroll;
   block-size: 298px;
-	min-width: 418px;
+  min-width: 418px;
   padding: 2px;
 }
 
@@ -273,7 +273,7 @@ ol {
   font-weight: 700;
   line-height: 1;
   text-transform: uppercase;
-	hyphens: auto;
+  hyphens: auto;
 }
 
 .content__video-card-description{
@@ -283,7 +283,7 @@ ol {
   font-style: normal;
   font-weight: 400;
   line-height: 16.2px; 
-	padding: 6px 0;
+  padding: 6px 0;
 }
 
 .content__video-card-thumbnail{
