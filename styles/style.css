@@ -192,11 +192,6 @@ ol {
   outline-offset: 1px;
 }
 
-.more-button:focus-visible
-{
-  padding: 3px;
-}
-
 .search-form__submit-button {
   align-self: flex-end;
 }
@@ -225,6 +220,7 @@ ol {
   overflow-y: scroll;
   block-size: 298px;
 	min-width: 418px;
+  padding: 2px;
 }
 
 .content__list-item:not(:last-child) {
