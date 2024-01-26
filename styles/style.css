@@ -11,7 +11,7 @@ html {
 }
 
 .page {
-	display: flex;
+  display: flex;
   align-items: center;
   margin: auto;
   color: #fff;
